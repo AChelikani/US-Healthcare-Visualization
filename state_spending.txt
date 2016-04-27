@@ -1,0 +1,50 @@
+Alabama,6272
+Alaska,9128
+Arizona,5434
+Arkansas,6167
+California,6238
+Colorado,5994
+Connecticut,8654
+Delaware,8480
+Florida,7156
+Georgia,5467
+Hawaii,6856
+Idaho,5658
+Illinois,6756
+Indiana,6666
+Iowa,6921
+Kansas,6782
+Kentucky,6596
+Louisiana,6795
+Maine,8521
+Maryland,7492
+Massachusetts,9278
+Michigan,6618
+Minnesota,7409
+Mississippi,6571
+Missouri,6967
+Montana,6640
+Nebraska,7048
+Nevada,5735
+New Hampshire,7839
+New Jersey,7583
+New Mexico,6651
+New York,8341
+North Carolina,6444
+North Dakota,7749
+Ohio,7076
+Oklahoma,6532
+Oregon,6580
+Pennsylvania,7730
+Rhode Island,8309
+South Carolina,6323
+South Dakota,7056
+Tennessee,6411
+Texas,5924
+Utah,5031
+Vermont,7635
+Virginia,6286
+Washington,6782
+West Virginia,7667
+Wisconsin,7233
+Wyoming,7040
