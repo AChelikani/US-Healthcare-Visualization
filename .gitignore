@@ -4,10 +4,11 @@
 # Data Files (generated and downloaded)
 /factual.txt
 /cardiologist.csv
-/orthopedicsurgeon.csv
+/orthopedicsurgeons.csv
 /familymedicine.csv
 /neurologists.csv
 /psychologists.csv
+/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
