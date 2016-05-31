@@ -8,7 +8,13 @@
 /familymedicine.csv
 /neurologists.csv
 /psychologists.csv
-/
+/psa.csv
+/ecg.csv
+/feedingtube.csv
+/mammogram.csv
+/bones.csv
+/dataset1.csv
+/dataset2.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
